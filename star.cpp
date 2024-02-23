@@ -83,6 +83,4 @@ int main() {
 
     return 0;
 }
-//This 'return'statement indicates that the program has executed successfully. 
-//It returns an exit status of 0 to the operating system.
-//This program Colab. with AI and other sources. 
+
